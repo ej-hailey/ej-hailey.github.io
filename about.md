@@ -4,11 +4,11 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Data Scientist | Ex-Hotel Executive
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+Github page
 
 ### Contact me
 
