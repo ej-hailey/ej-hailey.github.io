@@ -1,14 +1,12 @@
 ---
 layout: page
-title: Hi, welcome to my github.
+title: About me.
 permalink: /about/
 ---
 
-I am an Ex-Hotel Executive Turned Data Scientist.
+I am an Ex-Hotel Executive Turned Data Scientist. Here to have fun with data, machine learning, and data visualization.
 
-Here to have fun with data, machine learning, and data visualization.
-
-Check out my ongoing projects [here](https://github.com/ej-hailey).
+Check out my [ongoing projects](https://github.com/ej-hailey).
 
 ### My journey
 
@@ -19,4 +17,7 @@ Finally, I have gathered the courage to pursue what I am most passionate in. Dur
 ### Let's connect
 
 [ejlee.hailey@gmail.com](mailto:ejlee.hailey@gmail.com)
-[www.ejhailey.com](http://www.ejhailey.com)
+
+[Website](http://www.ejhailey.com)
+
+[LinkedIn](http://www.linkedin.com/in/ejhaileylee)
